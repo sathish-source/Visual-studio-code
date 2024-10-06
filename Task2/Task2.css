@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    border: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    background-color: black;
+    height: 65vh;
+}
+
+.kodemonk-menu {
+    padding: 20px 0 0 64px;
+}
+
+.menu:hover {
+    color: aliceblue;
+}
+
+.menu {
+    text-align: center;
+    font-size: 1.2rem;
+    margin: 2rem 0 0 2rem;
+    text-decoration: none;
+    color: gray;
+
+}
+
+.head {
+    color: aliceblue;
+    position: relative;
+    left: 575px;
+    top: 150px;
+}
+
+.title {
+    font-size: 2.8rem;
+}
+
+.paragraph {
+    padding: 8px;
+    font-size: 1.2rem;
+    margin-left: 10px;
+    color: rgb(230, 201, 165);
+}
+
+.kodemonk-cards {
+    height: 1730px;
+    width: 87%;
+    margin-left: 5rem;
+    justify-content: space-between;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cards {
+    width: 356px;
+    height: 400px;
+    margin: 2rem 0 0 0;
+    display: block;
+    text-decoration: none;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgb(205, 204, 204);
+}
+
+.images {
+    width: 357px;
+    height: 250px;
+    border-radius: 10px 10px 0 0;
+}
+
+.card-img-btm-head {
+    font-weight: 2.4rem;
+    margin: 20px 0 0 20px;
+    color: black;
+}
+
+.card-img-btm-head11 {
+    font-weight: 2rem;
+    margin: 0 0 0 10px;
+    color: black;
+}
+
+.card-imd-btm-paragraph {
+    margin: 30px 0 0 20px;
+    color: rgb(66, 66, 66);
+}
+
+.card-imd-btm-paragraph11 {
+    margin: 7px;
+    color: rgb(66, 66, 66);
+}
+
+.bottom-menu {
+    position: relative;
+    top: 20px;
+    background-color: black;
+    color: aliceblue;
+    padding: 20px 0 0 40px;
+    height: 60px;
+    width: 100%;
+}
+
+.bottom-name{
+    margin-left: 100px;
+}
